@@ -34,6 +34,7 @@ button {
       
    
  .container { 
+   align:center;
         padding: 25px; 
         background-color: lightblue;
         width: 50%;
