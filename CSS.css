@@ -34,14 +34,11 @@ button {
       
    
  .container { 
-   align:center;
         padding: 25px; 
         background-color: lightblue;
         width: 50%;
         margin: auto;
   width: 50%;
-  border: 3px solid green;
-  padding: 10px;
-   text-align:center;
+text-align:center;
     } 
 
